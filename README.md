@@ -1,4 +1,4 @@
-=== ExtendGui ===
+===ExtendGui===
 
 More Information soon.
 
